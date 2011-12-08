@@ -1,0 +1,10 @@
+#ignorar
+assets/
+bin/
+gen/
+*.classpath
+.classpath
+*.project
+.project
+default.properties
+progurar.cfg
